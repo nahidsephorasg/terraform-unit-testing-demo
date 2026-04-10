@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/nahidsephorasg/terraform-unit-testing-demo/compare/v1.0.0...v1.1.0) (2026-04-10)
+
+
+### Features
+
+* switch to terraform-module release type for automated versioning ([f647bcd](https://github.com/nahidsephorasg/terraform-unit-testing-demo/commit/f647bcd10e19ef39715da8933856519b27609d35))
+* switch to terraform-module release type for automated versioning ([9cfda9d](https://github.com/nahidsephorasg/terraform-unit-testing-demo/commit/9cfda9d0695b62b2b908a279244aa4b429516348))
+
 ## 1.0.0 (2026-04-10)
 
 
